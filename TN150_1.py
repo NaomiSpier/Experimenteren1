@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 14 20:33:34 2020
 
-@author: Yorick Vos
+@author: Yorick Vos en Naomi Spier
 
 Description
 """
