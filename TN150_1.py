@@ -14,11 +14,11 @@ import matplotlib.pyplot as plt
 import fplsqlib as fp
 
 # Aantal metingen
-n = 2
 
 # Meetwaarden
-E = np.linspace(20.0,20.0, n)
 Urb = np.array([0.20, 0.40])
+n = len(Urb)
+E = np.linspace(20.0,20.0, n)
 I = np.array([0.01, 0.80])
 
 # Formules
